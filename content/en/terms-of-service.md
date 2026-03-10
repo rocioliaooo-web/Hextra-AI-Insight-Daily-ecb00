@@ -4,50 +4,51 @@ type: page
 sidebar:
   exclude: true
 ---
-# Terms of Service
 
-*Effective Date: June 1, 2025*
+# 服务条款
+
+*生效日期：2025年6月1日*
 
 ---
 
-Hey there! 👋 Welcome to **ai.hubtoday** (which we'll just call "the Site" or "we" from here on out). Before you dive into using our services, please take a moment to really read through these Terms of Service. By accessing or using the Site, you're totally agreeing to and accepting these terms.
+欢迎访问 **ai.hubtoday**（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
 
-## 1. Quick Intro to Our Services
-Our Site is all about giving users access to awesome paid subscription content and member services! Think blog posts, exclusive resources, e-books, and lively community interactions, just to name a few. Heads up: some of this cool stuff is only for our subscribed members.
+## 1. 服务简介
+本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
 
-## 2. User Registration & Accounts
-- To get started, users will need to provide a valid email address and set up a password to register for an account.
-- Your account is your responsibility! You're accountable for its security and all activities happening under it. **Absolutely no transferring or sharing your account, got it?**
-- If you ever violate these terms, we reserve the right to **suspend or terminate** your account. Ouch! 😬
+## 2. 用户注册与账户
+- 用户需提供有效的电子邮件地址和设置密码以注册账户。
+- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
+- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
 
-## 3. Paid Subscription Services
-- Subscriptions are billed either monthly or annually, and you'll see all the pricing clearly displayed on the checkout page.
-- Heads up: all payments are processed through awesome third-party platforms like Stripe or PayPal. We don't store any of your payment info ourselves. Phew!
-- Your subscription will **automatically renew**, unless you decide to cancel it before your current billing cycle ends. Easy peasy!
-- **Our 14-Day Refund Policy is super straightforward:** If you're a first-time subscriber and not totally thrilled with our service, you can snag a full refund within 14 days of purchase. Just hit us up at the contact email at the end of these terms and tell us why you're bouncing. Each user gets one shot at this refund! After 14 days, or if it's not your first subscription, payments are **non-refundable** unless the law absolutely forces us to. Tough luck otherwise! 😉
+## 3. 付费订阅服务
+- 订阅服务基于月度/年度计费，费用在结算页面明示。
+- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
+- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
+- **14天退款政策**：首次订阅服务的用户，自购买之日起14天内，如对服务不满意，可申请全额退款。请通过本条款末尾提供的联系邮箱与我们联系并说明退款原因。每位用户仅限一次退款机会。超过14天或非首次订阅的，除非法律强制规定，付款后**不予退款**。
 
-## 4. Content Use & Intellectual Property
-- **Our original content** is copyrighted and **belongs exclusively to hubtoday**. So, no copying, reprinting, or using it for commercial purposes without our express permission!
-- As a user, you only get a **non-exclusive, non-transferable right to access** our content for your personal learning and reading.
-- Thinking of commercial use or quoting us a lot? You'll need to reach out to us for authorization first!
+## 4. 内容使用与知识产权
+- 所有原创内容**版权归本站 (hubtoday) 所有**，未经授权不得复制、转载或用于商业用途。
+- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
+- 如需商业用途或大量引用，请联系本站获取授权。
 
-## 5. User Conduct Guidelines
-- **Users are absolutely forbidden** from uploading, posting, or spreading any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Seriously, don't do it! 🙅‍♀️
-- And nope, you **cannot use technical means** to bulk download, crawl, or crack our member content. That's a big no-no.
-- We totally reserve the right to remove any inappropriate content and **ban any users** who violate these rules. Consider yourself warned!
+## 5. 用户行为规范
+- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
+- **禁止**通过技术手段批量下载、抓取、破解会员内容。
+- 本站有权移除不当内容并**封禁违规用户**。
 
-## 6. Service Changes & Interruptions
-- We totally reserve the right to change, suspend, or terminate any part or all of our services at any time, without giving you a heads-up. Sorry, not sorry! 😉
-- If for some reason our content becomes temporarily unavailable due to things like force majeure, server issues, or third-party service outages, **we won't be liable for any compensation**. Bummer, we know!
+## 6. 服务变更与中断
+- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
+- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
 
-## 7. Disclaimer
-- The information our Site provides is purely for reference. It **does NOT constitute** any professional advice whatsoever (like financial, legal, medical, you name it!). So, please don't take it as such.
-- For any direct or indirect losses users might incur from using our Site's content or services, **we are absolutely not responsible**. Just putting it out there! 🤷‍♀️
+## 7. 免责声明
+- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
+- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
 
-## 8. Governing Law
-- These Terms of Service are governed by and interpreted according to the laws of California, USA, without regard to its conflict of law principles.
-- For any disputes that pop up from or relate to these terms, we both agree to first try to sort things out amicably through friendly negotiation. If that doesn't work, you agree to submit to the jurisdiction of the courts located in Santa Clara County, California. Let's keep it civil, folks! 🤝
+## 8. 法律适用
+- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
+- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
 
-## 9. Get in Touch
-- Got any questions about these terms? Feel free to ping us using the details below:
-- 📧 **Email**: [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
+## 9. 联系方式
+- 如对本条款有任何疑问，请通过以下方式联系我们：
+- 📧 **邮箱**： [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
