@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-10" title="AI News Daily 2026/03/10" subtitle="微软Phi-4多模态、腾讯推出Penguin-VL视觉语言模型 果蝇全脑12.5万神经元数字化上传，Claude一小时破解三十年难题 NVIDIA报告企业AI大规模部署，Gartner预测支出达2.5" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-11" title="AI News Daily 2026/03/11" subtitle="英伟达投资Thinking Machines达500亿美金，LeCun创办AMI种子轮融10.3亿 Figure机器人自主整理客厅，谷歌发布全模态嵌入模型Gemini Embedding 2 Mini" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-10" title="AI News Daily 2026/03/10" subtitle="微软Phi-4多模态、腾讯推出Penguin-VL视觉语言模型 果蝇全脑12.5万神经元数字化上传，Claude一小时破解三十年难题 NVIDIA报告企业AI大规模部署，Gartner预测支出达2.5" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-09" title="AI News Daily 2026/03/09" subtitle="Claude Code Hidden Switch Boosts Speed by 600x Gauss Agent Proves Fields-Medal" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-08" title="AI News Daily 2026/03/08" subtitle="GPT-5.4's coding capabilities soar, spreadsheet processing launched Google" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-07" title="AI News Daily 2026/03/07" subtitle="ChatGPT5.4支持百万上下文,Kling3.0捕捉面部神态,Claude上线企业市场 AlignVAR超分推理快扩散模型10倍,WebChain发布最大网页交互数据集 智能体首入政府报告,软银4" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-06" title="AI News Daily 2026/03/06" subtitle="GPT-5.4 released, native desktop control, million context, permanent" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-05" title="AI News Daily 2026/03/05" subtitle="OpenAI is set to unveil its new GPT-5.4 model. Latest buzz suggests 🚀" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your perfect starting point if you're new here. It's designed to help you quickly grasp the most important industry shifts, so you don't get lost in fragmented information. 🗺️
 
 ### 2. Stay in Daily Sync
-The [AI Daily Archive](/en/2026-03/2026-03-10) is where you want to jump if you're looking to keep up with the cutting edge. Just 5 minutes a day will keep you perfectly aligned with the global AI pulse. ⚡
+The [AI Daily Archive](/en/2026-03/2026-03-11) is where you want to jump if you're looking to keep up with the cutting edge. Just 5 minutes a day will keep you perfectly aligned with the global AI pulse. ⚡
 
 ### 3. Explore Deeper Practice
 The [Blog](/en/blog/) is your go-to for structured guides on AI tools, workflows, and boosting your productivity, especially after you've learned why this site exists. 🧠
